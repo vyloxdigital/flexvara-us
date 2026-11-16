@@ -1,0 +1,23 @@
+{
+  "name": "FlexVara US — Joint Wellness Supplement",
+  "short_name": "FlexVara",
+  "description": "FlexVara is a 7-ingredient joint supplement with 500 mg NEM eggshell membrane per serving. See the FlexVara label, US prices and 90-day guarantee.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f3ed",
+  "theme_color": "#1e3836",
+  "categories": ["health", "shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
